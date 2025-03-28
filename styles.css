@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#image{
+    max-width: 100%;
+    height: auto;
+    margin: 0px auto;
+    padding: 20px;
+}
+
+#title{
+    font-weight: bold;
+    text-align: center;
+}
+
+#img-div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+#tribute-info{
+    padding: 10px;
+}
